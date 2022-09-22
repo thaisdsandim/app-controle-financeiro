@@ -12,11 +12,10 @@
 
 ## :hammer: Functionalities
 
-- `01`: Add 
-- `02`: List all registered psychologists
-- `03`: List registered psychologist by id
-- `04`: Submit psychologist registration
-- `05`: Update psychologist registration
+- `01`: Add incomes
+- `02`: Add expenses
+- `03`: Delete incomes
+- `04`: Delete expenses
 
 
 ## 📁 Project access
@@ -29,7 +28,7 @@ You can access the page [here](https://app-controle-financeiro.netlify.app/).
 <a href="https://nodejs.org/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
 
 
-## Getting Started with Controle Financeiro App
+## Getting started with Controle Financeiro App
 
 In the project directory, you can run:
 
