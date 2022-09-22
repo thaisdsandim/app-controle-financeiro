@@ -1,8 +1,35 @@
-# Getting Started with Create React App
+# App Controle Financeiro - Thaís Sandim
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="left">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=READY&color=GREEN&style=for-the-badge"/>
+<img src="https://img.shields.io/github/languages/count/thaisdsandim/app-controle-financeiro?style=for-the-badge"/>
+<img src="https://img.shields.io/github/repo-size/thaisdsandim/app-controle-financeiro?style=for-the-badge"/>
+</p>
 
-## Available Scripts
+> Project developed for pratice. Controle Financeiro is a page to calculate financial movements.
+
+# <img src="https://thaisdsandim.github.io/my-portfolio/assets/img/App-Controle-Financeiro.png" />
+
+## :hammer: Functionalities
+
+- `01`: Add 
+- `02`: List all registered psychologists
+- `03`: List registered psychologist by id
+- `04`: Submit psychologist registration
+- `05`: Update psychologist registration
+
+
+## 📁 Project access
+
+You can access the page [here](https://app-controle-financeiro.netlify.app/).
+
+
+## :warning: Requirements
+
+<a href="https://nodejs.org/en/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> </a> 
+
+
+## Getting Started with Controle Financeiro App
 
 In the project directory, you can run:
 
@@ -39,32 +66,15 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## ✔️ Tools used
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 👩 About me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![avatar](https://user-images.githubusercontent.com/96362469/180337164-4f1136b9-98ef-4329-9924-7e6e77f3b124.png)
 
-### Analyzing the Bundle Size
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thaisdsandim) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatothais.sandim@gmail.com) [![Instagram](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5567981551239) 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Thaís Sandim](https://github.com/thaisdsandim), an Administrator who is learning to be a Dev.
